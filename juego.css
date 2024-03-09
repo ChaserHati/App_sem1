@@ -1,0 +1,20 @@
+.juego_cont {
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 30px;
+    text-decoration: none;
+}
+
+.juego_subcont1 {
+    width: 50%;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.juego_subcont2 {
+    width: 45%;
+}
